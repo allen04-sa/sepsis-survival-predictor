@@ -14,3 +14,5 @@ joblib==1.4.2
 
 # ─── Production WSGI server for Render ──────────────────────────────
 gunicorn==22.0.0
+itsdangerous==2.2.0
+email-validator==2.1.0.post1
